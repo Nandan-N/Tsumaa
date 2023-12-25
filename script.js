@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const redirectButton = document.getElementById('shesaidyes');
 
     redirectButton.addEventListener('click', function () {
-        window.location.href = "https://levi1ackerman.github.io/gowmhearts.github.io/";
+        window.location.href = "https://neptune2003.github.io/hearts/";
     });
 });
 
