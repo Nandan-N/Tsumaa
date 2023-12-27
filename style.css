@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: whitesmoke;
+    background: pink;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -60,7 +60,7 @@ button:nth-child(2) {
     top: 10px;
     right: 10px;
     text-decoration: none;
-    /*background-color: #3498db;*/
+    background-color: rgb(252, 162, 222);
     /*color: #fff;*/
     padding: 10px 15px;
     border-radius: 5px;
